@@ -9,10 +9,12 @@
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/joshmadakoredmonds/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakoredmonds/azure-network-protocols)
+ 
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
 <h2>🤳Connect with me:</h2>
 
-[linkedin]: https://linkedin.com/in/terikaj
+-[linkedin]: https://linkedin.com/in/terikaj
 
 <!---
 TerikaJ/TerikaJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
