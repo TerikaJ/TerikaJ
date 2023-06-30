@@ -14,7 +14,7 @@
 
 <h2>🤳Connect with me:</h2>
 
--[linkedin]: https://linkedin.com/in/terikaj
+[linkedin]: https://linkedin.com/in/terikaj
 
 <!---
 TerikaJ/TerikaJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
