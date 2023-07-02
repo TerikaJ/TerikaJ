@@ -13,7 +13,7 @@
 <h2>👩🏽‍💻 Cybersecurity Projects:</h2>
 
 - <b>SOC and Honeynet using Microsoft Azure</b>
-  - [Building a SOC and Honeynet using Azure](https://github.com/terikaj/SOC-Honeynet)
+  - [Building and Configuring a SOC and Honeynet using Azure](https://github.com/terikaj/SOC-Honeynet)
 
 
 <h2> 🤳 Connect with me:</h2>
