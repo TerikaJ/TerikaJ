@@ -1,4 +1,4 @@
-<h1>Hi, I'm Terika! <br/><a href="https://www.linkedin.com/in/terikaj/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/">YouTuber</a></h1>
+<h1>Hi, I'm Terika! <br/><a href="https://www.linkedin.com/in/terikaj/">Cybersecurity Professional</a>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
