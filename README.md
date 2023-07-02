@@ -2,17 +2,29 @@
 
 <h2>👩🏽‍💻 Information Technology Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
+
+<details open>
+  <summary><img src="https://i.imgur.com/KzJbWRS.png" height="5%" width="10%" alt="osTicket"/></summary>
+  
   - [osTicket: Prerequisites and Installation](https://github.com/terikaj/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/terikaj/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/terika/ticket-lifecycle)
-- <b>Microsoft Azure</b>
+</details>
+
+<details open>
+  <summary><img src="https://i.imgur.com/1DDZ4Ui.png" height="5%" width="15%" alt="Microsoft Azure"/></summary>
+  
+  - [Creating an Azure Account ➔ Establishing a Virtual Machine](https://github.com/JTYKolesar/azure-start)
   - [Configuring Active Directory within Azure VMs](https://github.com/terika/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/terika/azure-network-protocols)
- 
-<h2>👩🏽‍💻 Cybersecurity Projects:</h2>
+</details>
 
-- <b>SOC and Honeynet using Microsoft Azure</b>
+
+<h2>👩🏽‍💻 Cybersecurity Projects:</h2>
+<img src="https://i.imgur.com/1DDZ4Ui.png" height="5%" width="15%" alt="Microsoft Azure"/>
+
+
+Implementing a SOC / Honeynet using Microsoft Azure 
   - [Building and Configuring a LIVE SOC / Honeynet using Azure](https://github.com/terikaj/SOC-Honeynet)
 
 
