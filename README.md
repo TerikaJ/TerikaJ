@@ -14,7 +14,7 @@
 <details open>
   <summary><img src="https://i.imgur.com/1DDZ4Ui.png" height="5%" width="15%" alt="Microsoft Azure"/></summary>
   
-  - [Creating an Azure Account ➔ Establishing a Virtual Machine](https://github.com/JTYKolesar/azure-start)
+  - [Creating an Azure Account ➔ Establishing a Virtual Machine](https://github.com/terika/azure-begin)
   - [Configuring Active Directory within Azure VMs](https://github.com/terika/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/terika/azure-network-protocols)
 </details>
