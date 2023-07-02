@@ -1,6 +1,6 @@
-<h1>Hi, I'm Terika! <br/><a href="https://www.linkedin.com/in/terikaj/">Cybersecurity Professional</a>
+<h1>Hi, I'm Terika!👩🏽‍💻 <br/><a href="https://www.linkedin.com/in/terikaj/">Cybersecurity Professional</a>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2>👩🏽‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/joshmadakoredmonds/osticket-prereqs)
@@ -10,10 +10,7 @@
   - [Configuring Active Directory within Azure VMs](https://github.com/joshmadakoredmonds/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakoredmonds/azure-network-protocols)
  
-<h2>👨‍💻 Cybersecurity Projects:</h2>
-<h1>Hi, I'm Terika! <br/><a href="https://github.com/terikaj">Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/terikaj/">, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
-
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👩🏽‍💻 Cybersecurity Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
