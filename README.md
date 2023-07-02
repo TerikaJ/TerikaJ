@@ -12,8 +12,8 @@
  
 <h2>👩🏽‍💻 Cybersecurity Projects:</h2>
 
-- <b>Building and Implementing a SOC and Honeynet using Azure </b>
-  - [Praciting DS & Algos in Python](https://github.com/terikaj/SOC-Honeynet)
+- <b>SOC and Honeynet using Microsoft Azure</b>
+  - [Building a SOC and Honeynet using Azure](https://github.com/terikaj/SOC-Honeynet)
 
 
 <h2> 🤳 Connect with me:</h2>
