@@ -1,4 +1,4 @@
-- <h1>Hi, I'm Terika, an <a href="https://linkedin.com/in/terikaj">IT Professional</a>☺</h1>
+<h1>Hi, I'm Terika! <br/><a href="https://github.com/terikaj">Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/terikaj/">, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
@@ -11,7 +11,7 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakoredmonds/azure-network-protocols)
  
 <h2>👨‍💻 Cybersecurity Projects:</h2>
-<h1>Hi, I'm Josh! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Terika! <br/><a href="https://github.com/terikaj">Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/terikaj/">, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
