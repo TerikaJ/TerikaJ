@@ -16,7 +16,7 @@
   
   - [Create Your Azure Account / Build an Azure Virtual Machine](https://github.com/terikaj/azure-begin)
   - [Active Directory Configuration inside of an Azure Virtual Machine](https://github.com/terikaj/configure-ad)
-  - [Inspecting Network Protocols and Configuring Network Security Groups](https://github.com/terikaj/azure-network-protocols)
+  - [Network Protocols Inspection and Configuring Network Security Groups](https://github.com/terikaj/azure-network-protocols)
 </details>
 
 
