@@ -15,7 +15,7 @@
   <summary><img src="https://i.imgur.com/1DDZ4Ui.png" height="5%" width="15%" alt="Microsoft Azure"/></summary>
   
   - [Create Your Azure Account / Build an Azure Virtual Machine](https://github.com/terikaj/azure-begin)
-  - [Active Directory Configuration inside of an Azure Virtual Machine](https://github.com/terikaj/configure-ad)
+  - [Active Directory Integration inside of an Azure Virtual Machine (On-Premise)](https://github.com/terikaj/configure-ad)
   - [Network Protocols Inspection and Configuring Network Security Groups](https://github.com/terikaj/azure-network-protocols)
 </details>
 
