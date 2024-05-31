@@ -1,6 +1,6 @@
-<h1>Hi, I'm Terika!🧑🏽‍💻 <br/><a href="https://www.linkedin.com/in/terikaj/">Cybersecurity and IT Professional</a>
+<h1>Hi, I'm Terika!🧑🏽‍💻 <br/><a href="https://www.linkedin.com/in/terikaj/">Cybersecurity Professional</a>
 
-<h2>🧑🏽‍💻 Information Technology Projects:</h2>
+<h2>🧑🏽‍💻 Systems Administration Projects:</h2>
 
 
 <details open>
@@ -28,7 +28,7 @@ Implementing a SOC / Honeynet using Microsoft Azure
   - [Building and Configuring a LIVE SOC / Honeynet using Azure](https://github.com/terikaj/SOC-Honeynet)
 
 
-<h2> 🤳 Connect with me:</h2>
+<h2> 🤳 Connect with me</h2>
 
 
 <!---
