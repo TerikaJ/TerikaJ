@@ -4,7 +4,7 @@
 <img src="https://i.imgur.com/1DDZ4Ui.png" height="5%" width="15%" alt="Microsoft Azure"/>
 
 
-Implementing a SOC / Honeynet using Microsoft Azure 
+Implementing a SOC / Honeynet using Microsoft Azure (LIVE TRAFFIC!)
   - [Building and Configuring a LIVE SOC / Honeynet using Azure](https://github.com/terikaj/SOC-Honeynet)
 
 <h2>🧑🏽‍💻 System Administration Projects:</h2>
