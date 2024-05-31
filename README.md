@@ -1,6 +1,6 @@
 <h1>Hi, I'm Terika!🧑🏽‍💻 <br/><a href="https://www.linkedin.com/in/terikaj/">Cybersecurity Professional</a>
 
-<h2>🧑🏽‍💻 SysAdmin Projects:</h2>
+<h2>🧑🏽‍💻 System Administration Projects:</h2>
 
 
 <details open>
