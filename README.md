@@ -12,6 +12,8 @@ Implementing a SOC / Honeynet using Microsoft Azure (LIVE TRAFFIC!)
 
 <details open>
   <summary><img src="https://i.imgur.com/KzJbWRS.png" height="5%" width="10%" alt="osTicket"/></summary>
+Implementing a full ticketing system from scratch within an Azure virtual machine (LIVE TICKET INSPECTION!)
+
   
   - [osTicket: Prerequisites and Installation](https://github.com/terikaj/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/terikaj/post-install-config)
@@ -20,6 +22,7 @@ Implementing a SOC / Honeynet using Microsoft Azure (LIVE TRAFFIC!)
 
 <details open>
   <summary><img src="https://i.imgur.com/1DDZ4Ui.png" height="5%" width="15%" alt="Microsoft Azure"/></summary>
+Getting started with Azure: Bulding a Virtual Machine, implementing Active Directory on Windows Server, & Wireshark Network Traffic Inspection
   
   - [Create Your Azure Account / Build an Azure Virtual Machine](https://github.com/terikaj/azure-begin)
   - [Active Directory Integration inside of an Azure Virtual Machine (On-Premise)](https://github.com/terikaj/configure-ad)
