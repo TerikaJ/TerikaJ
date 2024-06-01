@@ -26,7 +26,7 @@ Implementing a full ticketing system from scratch within an Azure virtual machin
 
 <details open>
   <summary><img src="https://i.imgur.com/1DDZ4Ui.png" height="5%" width="15%" alt="Microsoft Azure"/></summary>
-Getting started with Azure: Bulding a Virtual Machine, implementing Active Directory on Windows Server, & Wireshark Network Traffic Inspection
+Getting started with Azure: Bulding a Virtual Machine, implementing Active Directory on Windows Server, & Wireshark Network Traffic Inspection (LIVE DEMOS!)
   
   - [Create Your Azure Account / Build an Azure Virtual Machine](https://github.com/terikaj/azure-begin)
   - [Active Directory Integration inside of an Azure Virtual Machine (On-Premise)](https://github.com/terikaj/configure-ad)
