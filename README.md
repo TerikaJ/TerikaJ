@@ -7,6 +7,10 @@
 Implementing a Security Operations Center (SOC) / Honeynet from scratch using Microsoft Azure (LIVE TRAFFIC!)
   - [Building and Configuring a LIVE SOC / Honeynet using Azure](https://github.com/terikaj/SOC-Honeynet)
 
+Implementing Electronic Health Record Encryption (LIVE DEMO!)
+  - [Digital Data Guardian: Enhancing Electronic Health Record Security Through Encryption](https://github.com/terikaj/Medical-Encryption)
+
+
 <h2>🧑🏽‍💻 System Administration Projects:</h2>
 
 
