@@ -33,6 +33,7 @@ Getting started with Azure: Bulding a Virtual Machine, Implementing Active Direc
   - [Wireshark Network Traffic Inspection and Configuring Network Security Groups](https://github.com/terikaj/azure-network-protocols)
   - [Implementing and Managing DNS Services in Azure](https://github.com/terikaj/DNS-Azure)
   - [Configuring and Managing File Permissions in Azure](https://github.com/terikaj/FilePermissions-Azure)
+  - [Deploying and Utilizing VPNs in Microsoft Azure](https://github.com/terikaj/VPN-Azure)
 </details>
 
 
