@@ -38,7 +38,7 @@ Getting started with Azure: Bulding a Virtual Machine, Implementing Active Direc
 
 <h2>🧑🏽‍💻 🛠️ 📱 :gear:  Software Development Projects:</h2>
 
-  - [***CURRENTLY BULDING*** Designing A Movie Finder App Using Visual Studio Code](https://github.com/terikaj/Movie-Finder)
+  - [***CURRENTLY BULDING*** Designing A Movie Finder App Using Visual Studio Code (PRIVATE REPO)](https://github.com/terikaj/Movie-Finder)
 
 <h2> 🤳 Connect with me! </h2>
 
