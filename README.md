@@ -18,7 +18,7 @@ Implementing Electronic Health Record Encryption (LIVE DEMO!)
   <summary><img src="https://i.imgur.com/KzJbWRS.png" height="5%" width="10%" alt="osTicket"/></summary>
 Implementing a full ticketing system from scratch within an Azure virtual machine (LIVE TICKET INSPECTION!)
 
-  
+
   - [osTicket: Prerequisites and Installation](https://github.com/terikaj/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/terikaj/post-install-config)
   - [osTicket: The Ticket Lifecycle](https://github.com/terikaj/ticket-lifecycle)
