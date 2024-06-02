@@ -36,6 +36,9 @@ Getting started with Azure: Bulding a Virtual Machine, Implementing Active Direc
   - [Deploying and Utilizing VPNs in Microsoft Azure](https://github.com/terikaj/VPN-Azure)
 </details>
 
+<h2>🧑🏽‍💻 🛠️ 📱 :gear:  Software Development Projects:</h2>
+
+  - [***CURRENTLY BULDING*** Designing A Movie Finder App Using Visual Studio Code](https://github.com/terikaj/Movie-Finder)
 
 <h2> 🤳 Connect with me! </h2>
 
