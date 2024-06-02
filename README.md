@@ -38,12 +38,12 @@ Getting started with Azure: Bulding a Virtual Machine, Implementing Active Direc
 
 <h2>🧑🏽‍💻 🛠️ 📱  Software Development Projects:</h2>
 
-  - [***CURRENTLY BULDING*** Designing A Movie Finder Mobile App With Visual Studio Code (PRIVATE REPO)](https://github.com/terikaj/Movie-Finder)
-  - [***CURRENTLY BULDING*** Developing the 'Loc8r' Web App with the MEAN Stack (PRIVATE REPO)](https://github.com/terikaj/Loc8r)
+  - [***PRIVATE REPO - CURRENTLY BULDING*** Designing A Movie Finder Mobile App With Visual Studio Code](https://github.com/terikaj/Movie-Finder)
+  - [***PRIVATE REPO - CURRENTLY BULDING*** Developing the 'Loc8r' Web App with the MEAN StacK](https://github.com/terikaj/Loc8r)
 
 <h2>🧑🏽‍💻 💾 :gear:  Database Administration Projects:</h2>
 
-  - [***CURRENTLY BULDING*** SQL Database Design and Configuration for the Golden State Warriors (PRIVATE REPO)](https://github.com/terikaj/SQL-Warriors-DB)
+  - [***PRIVATE REPO - CURRENTLY BULDING*** SQL Database Design and Configuration for the Golden State Warriors](https://github.com/terikaj/SQL-Warriors-DB)
 
 <h2> 🤳 Connect with me! </h2>
 
