@@ -1,4 +1,4 @@
-<h1>Hi, I'm Terika!🧑🏽‍💻 <br/><a href="https://www.linkedin.com/in/terikaj/">Cybersecurity Professional</a>
+<h1>Hi, I'm Terika!🧑🏽‍💻 <br/><a href="https://www.linkedin.com/in/terikaj/">Digital Nomad & Cybersecurity Professional</a>
 
 <h2>🧑🏽‍💻 Cybersecurity Projects:</h2>
 <img src="https://i.imgur.com/1DDZ4Ui.png" height="5%" width="15%" alt="Microsoft Azure"/>
