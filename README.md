@@ -39,7 +39,7 @@ Getting started with Azure: Bulding a Virtual Machine, Implementing Active Direc
 <h2>🧑🏽‍💻 🛠️ 📱 :gear:  Software Development Projects:</h2>
 
   - [***CURRENTLY BULDING*** Creating A Movie Finder Mobile App Using Visual Studio Code (PRIVATE REPO)](https://github.com/terikaj/Movie-Finder)
-  - [***CURRENTLY BULDING*** Creating A Loc8r Web App Using MEAN Stack (PRIVATE REPO)](https://github.com/terikaj/Movie-Finder)
+  - [***CURRENTLY BULDING*** Creating the Web App "Loc8r" Using MEAN Stack (PRIVATE REPO)](https://github.com/terikaj/Loc8r)
 
 <h2> 🤳 Connect with me! </h2>
 
