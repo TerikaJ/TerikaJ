@@ -31,10 +31,9 @@ Getting started with Azure: Bulding a Virtual Machine, implementing Active Direc
   - [Create Your Azure Account / Build an Azure Virtual Machine](https://github.com/terikaj/azure-begin)
   - [Active Directory Integration inside of an Azure Virtual Machine (On-Premise)](https://github.com/terikaj/configure-ad)
   - [Network Protocols Inspection and Configuring Network Security Groups](https://github.com/terikaj/azure-network-protocols)
-  - [Understanding DNS in Azure](https://github.com/terikaj/DNS-Azure)
-  - [Understanding File Permissions in Azure](https://github.com/terikaj/FilePermissions-Azure)
+  - [Implementing and Managing DNS Services in Azure](https://github.com/terikaj/DNS-Azure)
+  - [Configuring and Managing File Permissions in Microsoft Azure](https://github.com/terikaj/FilePermissions-Azure)
 </details>
-
 
 
 <h2> 🤳 Connect with me on LinkedIn ! </h2>
