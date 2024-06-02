@@ -36,12 +36,12 @@ Getting started with Azure: Bulding a Virtual Machine, Implementing Active Direc
   - [Deploying and Utilizing VPNs in Microsoft Azure](https://github.com/terikaj/VPN-Azure)
 </details>
 
-<h2>🧑🏽‍💻 🛠️ 📱 :gear:  Software Development Projects:</h2>
+<h2>🧑🏽‍💻 🛠️ 📱  Software Development Projects:</h2>
 
   - [***CURRENTLY BULDING*** Designing A Movie Finder Mobile App With Visual Studio Code (PRIVATE REPO)](https://github.com/terikaj/Movie-Finder)
   - [***CURRENTLY BULDING*** Developing the 'Loc8r' Web App with the MEAN Stack (PRIVATE REPO)](https://github.com/terikaj/Loc8r)
 
-<h2>🧑🏽‍💻 💾 🗄️ :gear:  Database Administration Projects:</h2>
+<h2>🧑🏽‍💻 💾 :gear:  Database Administration Projects:</h2>
 
   - [***CURRENTLY BULDING*** SQL Database Design and Configuration for the Golden State Warriors (PRIVATE REPO)](https://github.com/terikaj/SQL-Warriors-DB)
 
