@@ -26,18 +26,17 @@ Implementing a full ticketing system from scratch within an Azure virtual machin
 
 <details open>
   <summary><img src="https://i.imgur.com/1DDZ4Ui.png" height="5%" width="15%" alt="Microsoft Azure"/></summary>
-Getting started with Azure: Bulding a Virtual Machine, Wireshark Network Traffic Inspection, and Deploying VPNs (LIVE DEMOS!)
+Getting started with Azure: Virtual Machine Build, Wireshark Network Traffic Inspection, and Deploying VPNs (LIVE DEMOS!)
   
   - [Create Your Azure Account / Build an Azure Virtual Machine](https://github.com/terikaj/azure-begin)
-  - [Active Directory Integration inside of an Azure Virtual Machine (On-Premise)](https://github.com/terikaj/configure-ad)
   - [Wireshark Network Traffic Inspection and Configuring Network Security Groups](https://github.com/terikaj/azure-network-protocols)
   - [Deploying and Utilizing VPNs in Microsoft Azure](https://github.com/terikaj/VPN-Azure)
 
-Active Directory, Windows Server/Domain Controller, DNS Services Configuration, and Establishing File Permissions
+Active Directory, Windows Server/Domain Controller, DNS Services Configuration, and Establishing File Permissions (LIVE DEMOS!)
 
-  - [Active Directory Integration inside of an Azure Virtual Machine (On-Premise)](https://github.com/terikaj/configure-ad)
-  - [Implementing and Managing DNS Services in Azure](https://github.com/terikaj/DNS-Azure)
-  - [Configuring and Managing File Permissions in Azure](https://github.com/terikaj/FilePermissions-Azure)
+  - [Active Directory Integration inside of an Azure Virtual Machine](On-Premise)](https://github.com/terikaj/configure-ad)
+  - [Implementing and Managing DNS Services in an Azure Virtual Machine](https://github.com/terikaj/DNS-Azure)
+  - [Configuring and Managing File Permissions in an Azure Virtual Machine](https://github.com/terikaj/FilePermissions-Azure)
   
 </details>
 
