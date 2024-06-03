@@ -34,9 +34,9 @@ Getting started with Azure: Virtual Machine Build, Wireshark Network Traffic Ins
 
 Active Directory, Windows Server/Domain Controller, DNS Services Configuration, and Establishing File Permissions (LIVE DEMOS!)
 
-  - [Active Directory Integration inside of an Azure Virtual Machine(On-Premise)](https://github.com/terikaj/configure-ad)
-  - [Implementing and Managing DNS Services in an Azure Virtual Machine](https://github.com/terikaj/DNS-Azure)
-  - [Configuring and Managing File Permissions in an Azure Virtual Machine](https://github.com/terikaj/FilePermissions-Azure)
+  - [Active Directory Integration inside of an Azure VM (On-Premise)](https://github.com/terikaj/configure-ad)
+  - [Implementing and Managing DNS Services in an Azure VM](https://github.com/terikaj/DNS-Azure)
+  - [Configuring and Managing File Permissions in an Azure VM](https://github.com/terikaj/FilePermissions-Azure)
   
 </details>
 
