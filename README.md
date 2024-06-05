@@ -26,7 +26,7 @@ Implementing a full ticketing system from scratch within an Azure virtual machin
 
 <details open>
   <summary><img src="https://i.imgur.com/1DDZ4Ui.png" height="5%" width="15%" alt="Microsoft Azure"/></summary>
-Getting started with Azure: Virtual Machine Build, Wireshark Network Traffic Inspection, and Deploying VPNs (LIVE DEMOS!)
+Getting started with Azure: Virtual Machine Build, Wireshark Network Traffic Inspection, Deploying VPNs, and OpenVAS vulnerability management (LIVE DEMOS!)
   
   - [Create Your Azure Account / Build an Azure Virtual Machine in Azure](https://github.com/terikaj/azure-begin)
   - [Wireshark Network Traffic Inspection and Configuring Network Security Groups in Azure](https://github.com/terikaj/azure-network-protocols)
