@@ -31,7 +31,7 @@ Getting started with Azure: Virtual Machine Build, Wireshark Network Traffic Ins
   - [Create Your Azure Account / Build an Azure Virtual Machine in Azure](https://github.com/terikaj/azure-begin)
   - [Wireshark Network Traffic Inspection and Configuring Network Security Groups in Azure](https://github.com/terikaj/azure-network-protocols)
   - [Deploying and Utilizing VPNs in an Azure VM](https://github.com/terikaj/VPN-Azure)
-  - [OpenVAS Vulnerability Management in an Azure VM](https://github.com/terikaj/OpenVAS-Azure)
+  - [OpenVAS Vulnerability Management in an OpenVAS Azure VM](https://github.com/terikaj/OpenVAS-Azure)
     
 Active Directory, Windows Server/Domain Controller, DNS Services Configuration, and Establishing File Permissions (LIVE DEMOS!)
 
