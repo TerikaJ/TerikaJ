@@ -10,6 +10,9 @@ Implementing a Security Operations Center (SOC) / Honeynet from scratch using Mi
 Implementing Electronic Health Record Encryption (LIVE DEMO!)
   - [Digital Data Guardian: Enhancing Electronic Health Record Security Through Encryption](https://github.com/terikaj/Medical-Encryption)
 
+Exploiting Windows 7 Accessibility for Password Reset (LIVE DEMO!)
+  - [Exploiting Windows 7 Accessibility Using Sticky Keys: Privilege Escalation for Password Reset](https://github.com/terikaj/Windows7-Exploit)
+
 
 <h2>🧑🏽‍💻 :wrench: :gear:  System Administration Projects:</h2>
 
