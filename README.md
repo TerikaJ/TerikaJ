@@ -3,9 +3,11 @@
 <h2>🧑🏽‍💻 :lock: :key: Cybersecurity Projects:</h2>
 <img src="https://i.imgur.com/1DDZ4Ui.png" height="5%" width="15%" alt="Microsoft Azure"/>
 
-
 Implementing a Security Operations Center (SOC) / Honeynet from scratch using Microsoft Azure (LIVE TRAFFIC!)
   - [Building and Configuring a LIVE SOC / Honeynet using Azure](https://github.com/terikaj/SOC-Honeynet)
+
+Deploying OpenVAS vulnerability management in an Azure virtual machine! (LIVE DEMO!)
+  - [OpenVAS Vulnerability Management in an OpenVAS Azure VM](https://github.com/terikaj/OpenVAS-Azure)
 
 Exploiting Windows 7 Accessibility for Password Reset (LIVE DEMO!)
   - [Exploiting Windows 7 Accessibility Using Sticky Keys: Privilege Escalation for Password Reset](https://github.com/terikaj/Windows7-Exploit)
@@ -13,9 +15,15 @@ Exploiting Windows 7 Accessibility for Password Reset (LIVE DEMO!)
 Implementing Electronic Health Record Encryption (LIVE DEMO!)
   - [Digital Data Guardian: Enhancing Electronic Health Record Security Through Encryption](https://github.com/terikaj/Medical-Encryption)
 
+<h2>🧑🏽‍💻 :key: Identity and Access Management (IAM) Projects:</h2>
+
+Configuring Azure Entra Active Directory for Identity and Access Management 
+  - [Setting up user roles, permissions, and SSO in Azure AD (Entra)](https://github.com/terikaj/Entra-AD-IAM)
+Integrating Azure Entra Active Directory with on-premise Active Directory for Hybrid Identity
+  - [Synchronizing on-premise Active Directory with Azure using Azure Entra Connect](https://github/com/terika/Entra-Connect-AD)
+
 
 <h2>🧑🏽‍💻 :wrench: :gear:  System Administration Projects:</h2>
-
 
 <details open>
   <summary><img src="https://i.imgur.com/KzJbWRS.png" height="5%" width="10%" alt="osTicket"/></summary>
@@ -29,12 +37,11 @@ Implementing a full ticketing system from scratch within an Azure virtual machin
 
 <details open>
   <summary><img src="https://i.imgur.com/1DDZ4Ui.png" height="5%" width="15%" alt="Microsoft Azure"/></summary>
-Getting started with Azure: Virtual Machine Build, Wireshark Network Traffic Inspection, Deploying VPNs, and OpenVAS vulnerability management (LIVE DEMOS!)
+Getting started with Azure: Virtual Machine Build, Wireshark Network Traffic Inspection, and Deploying VPNs (LIVE DEMOS!)
   
   - [Create Your Azure Account / Build an Azure Virtual Machine in Azure](https://github.com/terikaj/azure-begin)
   - [Wireshark Network Traffic Inspection and Configuring Network Security Groups in Azure](https://github.com/terikaj/azure-network-protocols)
   - [Deploying and Utilizing VPNs in an Azure VM](https://github.com/terikaj/VPN-Azure)
-  - [OpenVAS Vulnerability Management in an OpenVAS Azure VM](https://github.com/terikaj/OpenVAS-Azure)
     
 Active Directory, Windows Server/Domain Controller, DNS Services Configuration, and Establishing File Permissions (LIVE DEMOS!)
 
@@ -43,6 +50,10 @@ Active Directory, Windows Server/Domain Controller, DNS Services Configuration, 
   - [Configuring and Managing File Permissions in an Azure VM](https://github.com/terikaj/FilePermissions-Azure)
   
 </details>
+
+<h2>🧑🏽‍💻 ☁️ Cloud Administrator Projects:</h2>
+
+
 
 <h2>🧑🏽‍💻 🛠️ 📱  Software Development Projects:</h2>
 
