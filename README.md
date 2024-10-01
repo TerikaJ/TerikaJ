@@ -23,7 +23,7 @@ Configuring Azure Entra Active Directory for Identity and Access Management
 Integrating Azure Entra Active Directory with on-premise Active Directory for Hybrid Identity
   - [Synchronizing on-premise Active Directory with Azure using Azure Entra Connect](https://github/com/terika/Entra-Connect-AD)
 
-What is a Government issued Clearance and what purpose does it serve in protection Information, Identity, and Access?
+What is a Government issued Clearance and what purpose does it serve in protecting Information, Identity, and Access?
   - [Breaking down Government Clearances](https://github.com/terikaj/Clearance-IAM)
 
 
