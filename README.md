@@ -7,7 +7,7 @@ Implementing a Security Operations Center (SOC) / Honeynet from scratch using Mi
   - [Building and Configuring a LIVE SOC / Honeynet using Azure](https://github.com/terikaj/SOC-Honeynet)
 
 Deploying OpenVAS vulnerability management in an Azure virtual machine! (LIVE DEMO!)
-  - [OpenVAS Vulnerability Management in an OpenVAS Azure VM](https://github.com/terikaj/OpenVAS-Azure)
+  - [Tenable Vulnerability Management in an Azure VM](https://github.com/terikaj/Tenable-Azure)
 
 Exploiting Windows 7 Accessibility for Password Reset (LIVE DEMO!)
   - [Exploiting Windows 7 Accessibility Using Sticky Keys: Privilege Escalation for Password Reset](https://github.com/terikaj/Windows7-Exploit)
