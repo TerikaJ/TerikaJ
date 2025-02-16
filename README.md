@@ -26,6 +26,9 @@ Integrating Azure Entra Active Directory with on-premise Active Directory for Hy
 What is a Government issued Clearance and what purpose does it serve in protecting Information, Identity, and Access?
   - [Breaking down Government Clearances](https://github.com/terikaj/Clearance-IAM)
 
+<h2> 🔥🧯 Threat Hunting </h2>
+
+  - [Threat Hunting with Tor](https://github.com/terikaj/threat-hunting-tor)
 
 <h2>🧑🏽‍💻 :wrench: :gear:  System Administration Projects:</h2>
 
@@ -54,10 +57,6 @@ Active Directory, Windows Server/Domain Controller, DNS Services Configuration, 
   - [Configuring and Managing File Permissions in an Azure VM](https://github.com/terikaj/FilePermissions-Azure)
   
 </details>
-
-<h2> 🔥🧯 Threat Hunting </h2>
-
-  - [Threat Hunting with Tor](https://github.com/terikaj/threat-hunting-tor)
 
 
 <h2>🧑🏽‍💻 🛠️ 📱  Software Development Projects:</h2>
