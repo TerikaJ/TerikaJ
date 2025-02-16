@@ -55,8 +55,9 @@ Active Directory, Windows Server/Domain Controller, DNS Services Configuration, 
   
 </details>
 
-<h2>🧑🏽‍💻 ☁️ Cloud Administrator Projects:</h2>
+<h2> 🔥🧯 Threat Hunting </h2>
 
+  - [Threat Hunting with Tor](https://github.com/terikaj/threat-hunting-tor)
 
 
 <h2>🧑🏽‍💻 🛠️ 📱  Software Development Projects:</h2>
