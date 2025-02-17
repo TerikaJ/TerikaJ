@@ -27,7 +27,8 @@ What is a Government issued Clearance and what purpose does it serve in protecti
   - [Breaking down Government Clearances](https://github.com/terikaj/Clearance-IAM)
 
 <h2> 🔥🧯 Threat Hunting </h2>
-Conducting in-depth threat hunting utilizing Tor
+
+Configuring and Conducting in-depth threat hunting utilizing Tor
   - [Threat Hunting with Tor](https://github.com/terikaj/threat-hunting-tor)
 
 <h2>🧑🏽‍💻 :wrench: :gear:  System Administration Projects:</h2>
