@@ -50,6 +50,8 @@ Getting started with Azure: Virtual Machine Build, Wireshark Network Traffic Ins
   - [Wireshark Network Traffic Inspection and Configuring Network Security Groups in Azure](https://github.com/terikaj/azure-network-protocols)
   - [Deploying and Utilizing VPNs in an Azure VM](https://github.com/terikaj/VPN-Azure)
     
+<details open>
+  <summary><img src="https://i.imgur.com/1DDZ4Ui.png" height="5%" width="15%" alt="Microsoft Azure"/></summary>
 Active Directory, Windows Server/Domain Controller, DNS Services Configuration, and Establishing File Permissions (LIVE DEMOS!)
 
   - [Active Directory Integration inside of an Azure VM (On-Premise)](https://github.com/terikaj/configure-ad)
