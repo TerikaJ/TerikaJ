@@ -16,6 +16,14 @@ Implementing Electronic Health Record Encryption (LIVE DEMO!)
   - [Digital Data Guardian: Enhancing Electronic Health Record Security Through Encryption](https://github.com/terikaj/Medical-Encryption)
 
 <h2>🧑🏽‍💻 :key: Identity and Access Management (IAM) Projects:</h2>
+<details open>
+  <summary>
+    <img src="https://banner2.cleanpng.com/20181109/qqp/kisspng-cyberark-logo-font-computer-software-brand-featured-speakers-2-16-techtalk-healthcare-1713924403830.webp" height="5%" width="10%" alt="CyberArk Logo" style="background-color: transparent; border: none;"/>
+  </summary>
+</details>
+
+CyberArk Privaledged Account Security Build and Implementation 
+  - [***PRIVATE REPO - CURRENTLY BUILDING*** Building and Implementing Privaledged Account Security within CyberArk](https://github.com/terikaj/CyberArk-PAS)
 
 Configuring Azure Entra Active Directory for Identity and Access Management 
   - [***PRIVATE REPO - CURRENTLY BUILDING*** Setting up user roles, permissions, and SSO in Azure AD (Entra)](https://github.com/terikaj/Entra-AD-IAM)
