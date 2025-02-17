@@ -18,10 +18,10 @@ Implementing Electronic Health Record Encryption (LIVE DEMO!)
 <h2>🧑🏽‍💻 :key: Identity and Access Management (IAM) Projects:</h2>
 
 Configuring Azure Entra Active Directory for Identity and Access Management 
-  - [Setting up user roles, permissions, and SSO in Azure AD (Entra)](https://github.com/terikaj/Entra-AD-IAM)
+  - [***PRIVATE REPO - CURRENTLY BUILDING*** Setting up user roles, permissions, and SSO in Azure AD (Entra)](https://github.com/terikaj/Entra-AD-IAM)
     
 Integrating Azure Entra Active Directory with on-premise Active Directory for Hybrid Identity
-  - [Synchronizing on-premise Active Directory with Azure using Azure Entra Connect](https://github/com/terika/Entra-Connect-AD)
+  - [***PRIVATE REPO - CURRENTLY BUILDING*** Synchronizing on-premise Active Directory with Azure using Azure Entra Connect](https://github/com/terika/Entra-Connect-AD)
 
 What is a Government issued Clearance and what purpose does it serve in protecting Information, Identity, and Access?
   - [Breaking down Government Clearances](https://github.com/terikaj/Clearance-IAM)
@@ -29,7 +29,7 @@ What is a Government issued Clearance and what purpose does it serve in protecti
 <h2> 🔥🧯 Threat Hunting </h2>
 
 Configuring and Conducting in-depth threat hunting utilizing Tor
-  - [Threat Hunting with Tor](https://github.com/terikaj/threat-hunting-tor)
+  - [***PRIVATE REPO - CURRENTLY BUILDING*** Threat Hunting with Tor](https://github.com/terikaj/threat-hunting-tor)
 
 <h2>🧑🏽‍💻 :wrench: :gear:  System Administration Projects:</h2>
 
