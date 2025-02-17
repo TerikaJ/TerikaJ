@@ -6,8 +6,8 @@
 Implementing a Security Operations Center (SOC) / Honeynet from scratch using Microsoft Azure (LIVE TRAFFIC!)
   - [Building and Configuring a LIVE SOC / Honeynet using Azure](https://github.com/terikaj/SOC-Honeynet)
 
-Implementing a Security Operations Center (SOC) / Honeynet from scratch using Microsoft Azure (LIVE TRAFFIC!)
-  - [Building and Configuring a LIVE SOC / Honeynet using Azure](https://github.com/terikaj/Splunk-Network-Security-Lab)
+Deploying a virtualized cybersecurity environment using Oracle VM VirtualBox, Splunk, Sysmon, and Crowbar for network monitoring, security testing, and vulnerability exploitation across Windows, Kali Linux, and Ubuntu VMs (LIVE TRAFFIC!)
+  - [Deploying a virtualized network security environment using Oracle VM VirtalBox, Splunk, Sysmon, and Crowbar](https://github.com/terikaj/Splunk-Network-Security-Lab)
 
 Deploying Tenable vulnerability management in an Azure virtual machine! (LIVE DEMO!)
   - [***PRIVATE REPO - CURRENTLY BUILDING*** Tenable Vulnerability Management in an Azure VM](https://github.com/terikaj/Tenable-Azure)
