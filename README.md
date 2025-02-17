@@ -35,8 +35,6 @@ Conducting in-depth threat hunting utilizing Tor
 <details open>
   <summary><img src="https://i.imgur.com/KzJbWRS.png" height="5%" width="10%" alt="osTicket"/></summary>
 Implementing a full ticketing system from scratch within an Azure virtual machine (LIVE TICKET INSPECTION!)
-
-
   - [osTicket: Prerequisites and Installation](https://github.com/terikaj/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/terikaj/post-install-config)
   - [osTicket: The Ticket Lifecycle](https://github.com/terikaj/ticket-lifecycle)
@@ -45,7 +43,6 @@ Implementing a full ticketing system from scratch within an Azure virtual machin
 <details open>
   <summary><img src="https://i.imgur.com/1DDZ4Ui.png" height="5%" width="15%" alt="Microsoft Azure"/></summary>
 Getting started with Azure: Virtual Machine Build, Wireshark Network Traffic Inspection, and Deploying VPNs (LIVE DEMOS!)
-  
   - [Create Your Azure Account / Build an Azure Virtual Machine in Azure](https://github.com/terikaj/azure-begin)
   - [Wireshark Network Traffic Inspection and Configuring Network Security Groups in Azure](https://github.com/terikaj/azure-network-protocols)
   - [Deploying and Utilizing VPNs in an Azure VM](https://github.com/terikaj/VPN-Azure)
