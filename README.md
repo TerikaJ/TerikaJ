@@ -32,7 +32,7 @@ Integrating Azure Entra Active Directory with on-premise Active Directory for Hy
   - [***PRIVATE REPO - CURRENTLY BUILDING*** Synchronizing on-premise Active Directory with Azure using Azure Entra Connect](https://github/com/terika/Entra-Connect-AD)
 
 What is a Government issued Clearance and what purpose does it serve in protecting Information, Identity, and Access?
-  - [Breaking down Government Clearances](https://github.com/terikaj/Clearance-IAM)
+  - [An Understanding of Government Clearances](https://github.com/terikaj/Clearance-IAM)
 
 
 <h2>🧑🏽‍💻 :wrench: :gear:  System Administration Projects:</h2>
