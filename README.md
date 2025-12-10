@@ -1,44 +1,22 @@
 <h1>Hi, I'm Terika!🧑🏽‍💻 <br/><a href="https://www.linkedin.com/in/terikaj/"> Security Engineer </a> :cloud: :lock: :key: :shield:
 
-<h2>🧑🏽‍💻 :lock: :key: Cybersecurity Projects:</h2>
+<h2>🧑🏽‍💻 :lock: :key: Security Engineer Projects:</h2>
 <img src="https://i.imgur.com/1DDZ4Ui.png" height="5%" width="15%" alt="Microsoft Azure"/>
 
 Implementing a Security Operations Center (SOC) / Honeynet from scratch using Microsoft Azure (LIVE TRAFFIC!)
   - [Building and Configuring a LIVE SOC / Honeynet using Azure](https://github.com/terikaj/SOC-Honeynet)
-
-Deploying a virtualized network security environment using Oracle VM VirtualBox, Splunk, Sysmon, and Crowbar for network monitoring, security testing, and vulnerability exploitation across Windows, Kali Linux, and Ubuntu VMs (LIVE TRAFFIC!)
-  - [Deploying a virtualized network security environment using Oracle VM VirtalBox, Splunk, Sysmon, and Crowbar](https://github.com/terikaj/Splunk-Network-Security-Lab)
-
-Deploying Tenable vulnerability management in an Azure virtual machine! (LIVE DEMO!)
-  - [***PRIVATE REPO - CURRENTLY BUILDING*** Tenable Vulnerability Management in an Azure VM](https://github.com/terikaj/Tenable-Azure)
-
-Exploiting Windows 7 Accessibility for Password Reset (LIVE DEMO!)
-  - [Exploiting Windows 7 Accessibility Using Sticky Keys: Privilege Escalation for Password Reset](https://github.com/terikaj/Windows7-Exploit)
-    
-Implementing Electronic Health Record Encryption (LIVE DEMO!)
-  - [Digital Data Guardian: Enhancing Electronic Health Record Security Through Encryption](https://github.com/terikaj/Medical-Encryption)
-
-<h2>🧑🏽‍💻 :key: Identity and Access Management (IAM) Projects:</h2>
-<details open>
-  <summary>
-    <img src="https://banner2.cleanpng.com/20181109/qqp/kisspng-cyberark-logo-font-computer-software-brand-featured-speakers-2-16-techtalk-healthcare-1713924403830.webp" height="5%" width="10%" alt="CyberArk Logo" style="background-color: transparent; border: none;"/>
-  </summary>
-</details>
-
 CyberArk Privaledged Account Security Build and Implementation 
   - [***PRIVATE REPO - CURRENTLY BUILDING*** Building and Implementing Privaledged Account Security within CyberArk](https://github.com/terikaj/CyberArk-PAS)
-
-Configuring Azure Entra Active Directory for Identity and Access Management 
-  - [***PRIVATE REPO - CURRENTLY BUILDING*** Setting up user roles, permissions, and SSO in Azure AD (Entra)](https://github.com/terikaj/Entra-AD-IAM)
     
-Integrating Azure Entra Active Directory with on-premise Active Directory for Hybrid Identity
-  - [***PRIVATE REPO - CURRENTLY BUILDING*** Synchronizing on-premise Active Directory with Azure using Azure Entra Connect](https://github/com/terika/Entra-Connect-AD)
+  - [Deploying a virtualized network security environment using Oracle VM VirtalBox, Splunk, Sysmon, and Crowbar](https://github.com/terikaj/Splunk-Network-Security-Lab)
+  - [***PRIVATE REPO - CURRENTLY BUILDING*** Tenable Vulnerability Management in an Azure VM](https://github.com/terikaj/Tenable-Azure)
+  - [Exploiting Windows 7 Accessibility Using Sticky Keys: Privilege Escalation for Password Reset](https://github.com/terikaj/Windows7-Exploit)
+  - [Digital Data Guardian: Enhancing Electronic Health Record Security Through Encryption](https://github.com/terikaj/Medical-Encryption)
+
+
 
 What is a Government issued Clearance and what purpose does it serve in protecting Information, Identity, and Access?
   - [An Understanding of Government Clearances](https://github.com/terikaj/Clearance-IAM)
-
-
-<h2>🧑🏽‍💻 :wrench: :gear:  System Administration Projects:</h2>
 
 <details open>
   <summary><img src="https://i.imgur.com/KzJbWRS.png" height="5%" width="10%" alt="osTicket"/></summary>
@@ -64,18 +42,19 @@ Active Directory, Windows Server/Domain Controller, DNS Services Configuration, 
   - [Active Directory Integration inside of an Azure VM (On-Premise)](https://github.com/terikaj/configure-ad)
   - [Implementing and Managing DNS Services in an Azure VM](https://github.com/terikaj/DNS-Azure)
   - [Configuring and Managing File Permissions in an Azure VM](https://github.com/terikaj/FilePermissions-Azure)
-  
+
+Configuring Azure Entra Active Directory for Identity and Access Management 
+  - [***PRIVATE REPO - CURRENTLY BUILDING*** Setting up user roles, permissions, and SSO in Azure AD (Entra)](https://github.com/terikaj/Entra-AD-IAM)
+    
+Integrating Azure Entra Active Directory with on-premise Active Directory for Hybrid Identity
+  - [***PRIVATE REPO - CURRENTLY BUILDING*** Synchronizing on-premise Active Directory with Azure using Azure Entra Connect](https://github/com/terika/Entra-Connect-AD)
+
 </details>
 
 
 <h2>🧑🏽‍💻 🛠️ 📱  Software Development Projects:</h2>
 
   - [***PRIVATE REPO - CURRENTLY BUILDING*** Designing A Movie Finder Mobile App With Visual Studio Code](https://github.com/terikaj/Movie-Finder)
-  - [***PRIVATE REPO - CURRENTLY BUILDING*** Developing the 'Loc8r' Web App with the MEAN Stack](https://github.com/terikaj/Loc8r)
-
-<h2>🧑🏽‍💻 💾 :gear:  Database Administration Projects:</h2>
-
-  - [***PRIVATE REPO - CURRENTLY BUILDING*** SQL Database Design and Configuration for the Golden State Warriors](https://github.com/terikaj/SQL-Warriors-DB)
 
 <h2> 🤳 Connect with me! </h2>
 
