@@ -1,6 +1,6 @@
-<h1>Hi, I'm Terika!🧑🏽‍💻 <br/><a href="https://www.linkedin.com/in/terikaj/"> Security Engineer </a> :cloud: :lock: :key: :shield:
+<h1>Hi, I'm Terika!🧑🏽‍💻 <br/><a href="https://www.linkedin.com/in/terikaj/"> PAM Security Engineer </a> :cloud: :lock: :key: :shield:
 
-<h2>🧑🏽‍💻 :lock: :key: PAM Security Engineer Projects:</h2>
+<h2>🧑🏽‍💻 :lock: :key: Security Engineer Projects:</h2>
 <img src="https://i.imgur.com/1DDZ4Ui.png" height="5%" width="15%" alt="Microsoft Azure"/>
 
 Implementing a Security Operations Center (SOC) / Honeynet from scratch using Microsoft Azure (LIVE TRAFFIC!)
