@@ -5,6 +5,7 @@
 
 Implementing a Security Operations Center (SOC) / Honeynet from scratch using Microsoft Azure (LIVE TRAFFIC!)
   - [Building and Configuring a LIVE SOC / Honeynet using Azure](https://github.com/terikaj/SOC-Honeynet)
+
 CyberArk Privaledged Account Security Build and Implementation 
   - [***PRIVATE REPO - CURRENTLY BUILDING*** Building and Implementing Privaledged Account Security within CyberArk](https://github.com/terikaj/CyberArk-PAS)
     
