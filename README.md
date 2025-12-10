@@ -79,11 +79,11 @@ Active Directory, Windows Server/Domain Controller, DNS Services Configuration, 
 
 <h2> 🤳 Connect with me! </h2>
 
-[<img align="left" alt="Terika | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Terika | Threads" width="22px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/threads.svg" />][threads] 
 [<img align="left" alt="Terika | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Terika | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/
+[threads]: https://threads.com/terikaj
 [instagram]: https://www.instagram.com/terikaj
 [linkedin]: https://linkedin.com/in/terikaj
 
