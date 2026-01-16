@@ -8,10 +8,11 @@ Implementing a Security Operations Center (SOC) / Honeynet from scratch using Mi
 
 CyberArk Privaledged Account Security Build and Implementation 
   - [***PRIVATE REPO - CURRENTLY BUILDING*** Building and Implementing Privaledged Account Security within CyberArk](https://github.com/terikaj/CyberArk-PAS)
-    
   - [Deploying a virtualized network security environment using Oracle VM VirtalBox, Splunk, Sysmon, and Crowbar](https://github.com/terikaj/Splunk-Network-Security-Lab)
+  
+  - [***PRIVATE REPO - CURRENTLY BUILDING*** OpenVAS Vulnerability Management Project](https://github.com/terikaj/Azure-OpenVAS)  
   - [***PRIVATE REPO - CURRENTLY BUILDING*** Tenable Vulnerability Management in an Azure VM](https://github.com/terikaj/Tenable-Azure)
-  - [Exploiting Windows 7 Accessibility Using Sticky Keys: Privilege Escalation for Password Reset](https://github.com/terikaj/Windows7-Exploit)
+  - [Exploiting Windows 7 Accessibility Using Sticky Keys: Privilege Escalation for Password Reset](https://github.com/terikaj/Windows7-Exploit)    
   - [Digital Data Guardian: Enhancing Electronic Health Record Security Through Encryption](https://github.com/terikaj/Medical-Encryption)
 
 
