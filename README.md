@@ -15,6 +15,11 @@ CyberArk Privaledged Account Security Build and Implementation
   - [Exploiting Windows 7 Accessibility Using Sticky Keys: Privilege Escalation for Password Reset](https://github.com/terikaj/Windows7-Exploit)    
   - [Digital Data Guardian: Enhancing Electronic Health Record Security Through Encryption](https://github.com/terikaj/Medical-Encryption)
 
+Configuring Azure Entra Active Directory for Identity and Access Management 
+  - [***PRIVATE REPO - CURRENTLY BUILDING*** Setting up user roles, permissions, and SSO in Azure AD (Entra)](https://github.com/terikaj/Entra-AD-IAM)
+    
+Integrating Azure Entra Active Directory with on-premise Active Directory for Hybrid Identity
+  - [***PRIVATE REPO - CURRENTLY BUILDING*** Synchronizing on-premise Active Directory with Azure using Azure Entra Connect](https://github/com/terika/Entra-Connect-AD)
 
 
 What is a Government issued Clearance and what purpose does it serve in protecting Information, Identity, and Access?
