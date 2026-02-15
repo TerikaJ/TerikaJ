@@ -9,7 +9,7 @@ Focus Areas: Identity & Access Management (IAM) | Privileged Access Management (
 ## Privileged Access Management (PAM)
 
 ### CyberArk Project 
-- [***PRIVATE REPO - CURRENTLY BUILDING*** Building and Implementing Privileged Account Security within CyberArk](https://github.com/terikaj/CyberArk-PAS)
+- [***PRIVATE REPO - BUILDING*** Building and Implementing Privileged Account Security within CyberArk](https://github.com/terikaj/CyberArk-PAS)
 
 ---
 
