@@ -2,39 +2,32 @@
 
 <h1>🧑🏽‍💻 🔐 🔑 Terika Jackson — Security Engineering Portfolio </h1>
 
-Focus Areas: Identity & Access Management (IAM) | Privileged Access Management (PAM) | SOC | Cloud Security
+Focus Areas: Identity & Access Management (IAM) | Privileged Access Management (PAM) | Identity Governance & Administration (IGA)| SOC | Cloud Security
 
 
 ---
 ## Privileged Access Management (PAM)
 
-### CyberArk Privileged Account Security Build and Implementation
+### CyberArk Project 
 - [***PRIVATE REPO - CURRENTLY BUILDING*** Building and Implementing Privileged Account Security within CyberArk](https://github.com/terikaj/CyberArk-PAS)
 
 ---
 
 ## Identity Governance & Administration (IGA)
-
-### Layered Identity Governance & Directory Enforcement Architecture
-- [Layered Identity Governance & Directory Enforcement Diagram](https://github.com/terikaj/IGA-Architecture)
+- [Layered Identity Governance & Directory Enforcement Architecture](https://github.com/terikaj/IGA-Architecture)
 
 ---
 
 ## Identity & Access Management (IAM)
 
-### Configuring Azure Entra Active Directory for Identity and Access Management
-- [***PRIVATE REPO - CURRENTLY BUILDING*** Setting up user roles, permissions, and SSO in Azure AD (Entra)](https://github.com/terikaj/Entra-AD-IAM)
-
-### Integrating Azure Entra Active Directory with on-premise Active Directory for Hybrid Identity
-- [***PRIVATE REPO - CURRENTLY BUILDING*** Synchronizing on-premise Active Directory with Azure using Azure Entra Connect](https://github/com/terika/Entra-Connect-AD)
-
-### Okta Identity & Access Management Foundations
-- [***PRIVATE REPO*** Okta Identity & Access Sandbox Project](https://github.com/terikaj/Okta-IAM-Build)
-- Core Okta tenant configuration, application integrations (SAML/OIDC), group-based access control, and MFA enforcement in an enterprise Okta environment.
-
-### Okta User Lifecycle Management & Automation
+### Okta Projects
+- [***PRIVATE REPO - BUILDING*** Okta Identity & Access Sandbox Project](https://github.com/terikaj/Okta-IAM-Build)
 - [***PRIVATE REPO - PLANNED / SANDBOX*** Okta User Lifecyle Management](https://github.com/terikaj/Okta-User-Lifecycle)
-- Automated onboarding, role-based access changes, and deprovisioning using Okta Lifecycle Management, group rules, and workflow-driven identity governance.
+
+### Microsoft Entra ID (Azure AD) Projects
+- [***PRIVATE REPO - BUILDING*** Setting up user roles, permissions, and SSO in Entra ID](https://github.com/terikaj/Entra-AD-IAM)
+- [***PRIVATE REPO - BUILDING*** Synchronizing on-premise Active Directory with Azure using Azure Entra Connect](https://github/com/terika/Entra-Connect-AD)
+
 
 ### What is a Government issued Clearance and what purpose does it serve in protecting Information, Identity, and Access?
 - [An Understanding of Government Clearances](https://github.com/terikaj/Clearance-IAM)
@@ -43,12 +36,12 @@ Focus Areas: Identity & Access Management (IAM) | Privileged Access Management (
 
 ## Cloud & Infrastructure Fundamentals (Azure)
 
-### Getting started with Azure: Virtual Machine Build, Wireshark Network Traffic Inspection, and Deploying VPNs (LIVE DEMOS!)
+### Getting started with Azure: Virtual Machine Build, Wireshark Network Traffic Inspection, and Deploying VPNs
 - [Create Your Azure Account / Build an Azure Virtual Machine in Azure](https://github.com/terikaj/azure-begin)
 - [Wireshark Network Traffic Inspection and Configuring Network Security Groups in Azure](https://github.com/terikaj/azure-network-protocols)
 - [Deploying and Utilizing VPNs in an Azure VM](https://github.com/terikaj/VPN-Azure)
 
-### Active Directory, Windows Server / Domain Controller, DNS Services Configuration, and Establishing File Permissions (LIVE DEMOS!)
+### Active Directory, Windows Server / Domain Controller, DNS Services Configuration, and Establishing File Permissions 
 - [Active Directory Integration inside of an Azure VM (On-Premise)](https://github.com/terikaj/configure-ad)
 - [Implementing and Managing DNS Services in an Azure VM](https://github.com/terikaj/DNS-Azure)
 - [Configuring and Managing File Permissions in an Azure VM](https://github.com/terikaj/FilePermissions-Azure)
@@ -57,7 +50,7 @@ Focus Areas: Identity & Access Management (IAM) | Privileged Access Management (
 
 ## Security Operations & Detection
 
-### Implementing a Security Operations Center (SOC) / Honeynet from scratch using Microsoft Azure (LIVE TRAFFIC!)
+### Implementing a Security Operations Center (SOC) / Honeynet from scratch using Microsoft Azure 
 - [Building and Configuring a LIVE SOC / Honeynet using Azure](https://github.com/terikaj/SOC-Honeynet)
 ### Deploying a virtualized network security environment using Oracle VM VirtualBox, Splunk, Sysmon, and Crowbar
 - [Deploying a virtualized network security environment using Oracle VM VirtalBox, Splunk, Sysmon, and Crowbar](https://github.com/terikaj/Splunk-Network-Security-Lab)
@@ -67,14 +60,14 @@ Focus Areas: Identity & Access Management (IAM) | Privileged Access Management (
 ## Vulnerability Management
 
 ### Deploying a virtualized network security environment using Oracle VM VirtualBox, Splunk, Sysmon, and Crowbar
-- [***PRIVATE REPO - CURRENTLY BUILDING*** OpenVAS Vulnerability Management Project](https://github.com/terikaj/Azure-OpenVAS)
-- [***PRIVATE REPO - CURRENTLY BUILDING*** Tenable Vulnerability Management in an Azure VM](https://github.com/terikaj/Tenable-Azure)
+- [***PRIVATE REPO - BUILDING*** OpenVAS Vulnerability Management Project](https://github.com/terikaj/Azure-OpenVAS)
+- [***PRIVATE REPO - BUILDING*** Tenable Vulnerability Management in an Azure VM](https://github.com/terikaj/Tenable-Azure)
 
 ---
 
 ## IT Service Management & Enterprise Foundations
 
-### Implementing a full ticketing system from scratch within an Azure virtual machine (LIVE TICKET INSPECTION!)
+### Implementing a full ticketing system from scratch within an Azure virtual machine 
 - [osTicket: Prerequisites and Installation](https://github.com/terikaj/osticket-prereqs)
 - [osTicket: Post-Installation Configuration](https://github.com/terikaj/post-install-config)
 - [osTicket: The Ticket Lifecycle](https://github.com/terikaj/ticket-lifecycle)
