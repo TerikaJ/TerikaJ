@@ -1,4 +1,4 @@
-<h1>Hi, I'm Terika!🧑🏽‍💻 <br/><a href="https://www.linkedin.com/in/terikaj/"> PAM Security Engineer </a> :cloud: :lock: :key: :shield:
+<h1>Hi, I'm Terika!🧑🏽‍💻 <br/><a href="https://www.linkedin.com/in/terikaj/"> Security Engineer </a> :cloud: :lock: :key: :shield:
 
 <h1>🧑🏽‍💻 🔐 🔑 Terika Jackson — Security Engineering Portfolio </h1>
 
