@@ -35,7 +35,7 @@ I specialize in RBAC modeling, group-based authorization, delegated directory ad
 - [***PRIVATE REPO - BUILDING*** Synchronizing on-premise Active Directory with Azure using Azure Entra Connect](https://github/com/terika/Entra-Connect-AD)
 
 
-### Government Security Clearances: The protection of Information, Identity, and Access
+### Government Security Clearances: Protection of Information, Identity, and Access
 - [An Understanding of Government Clearances](https://github.com/terikaj/Clearance-IAM)
 
 ---
