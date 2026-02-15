@@ -30,7 +30,7 @@ I specialize in RBAC modeling, group-based authorization, delegated directory ad
 - [***PRIVATE REPO BUILD*** Okta Identity & Access Sandbox Project](https://github.com/terikaj/Okta-IAM-Build)
 - [***PRIVATE REPO BUILD*** Okta User Lifecyle Management](https://github.com/terikaj/Okta-User-Lifecycle)
 
-### Microsoft Entra ID (Azure AD) Labs
+### Azure Labs (Lvl 3): Microsoft Entra ID (Azure AD) 
 - [***PRIVATE REPO BUILD*** Setting up user roles, permissions, and SSO in Entra ID](https://github.com/terikaj/Entra-AD-IAM)
 - [***PRIVATE REPO BUILD*** Synchronizing on-premise Active Directory with Azure using Azure Entra Connect](https://github/com/terika/Entra-Connect-AD)
 
