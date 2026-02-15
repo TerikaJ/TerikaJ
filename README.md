@@ -5,7 +5,7 @@
 
 <h1>🧑🏽‍💻 🔐 🔑 🛡️<br/><a href="https://www.linkedin.com/in/terikaj/"> Terika Jackson </a> — Security Engineer Portfolio </h1>
 
-As a *Security Engineer*, I operate within and design multi-layer identity control planes that integrate authoritative identity sources, governed access workflows, directory-based enforcement, and endpoint policy management.
+As a *Security Engineer*, I operate and design multi-layer identity control planes that integrate authoritative identity sources, governed access workflows, directory-based enforcement, and endpoint policy management.
 
 I specialize in RBAC modeling, group-based authorization, delegated directory administration, and privileged access governance across **Okta, CyberArk, Active Directory, and Entra ID** driven environments. My work aligns identity engineering with governance, compliance, and operational security objectives.
 
