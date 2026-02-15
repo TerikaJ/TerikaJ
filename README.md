@@ -10,7 +10,7 @@ As a *Security Engineer*, I operate within and design multi-layer identity contr
 I specialize in RBAC modeling, group-based authorization, delegated directory administration, and privileged access governance across **Okta, CyberArk, Active Directory, and Entra ID** driven environments. My work aligns identity engineering with governance, compliance, and operational security objectives.
 
 
-**Focus Areas:** Identity & Access Management (IAM) | Privileged Access Management (PAM) | Identity Governance & Administration (IGA) | SOC | Cloud Security | Governance, Risk, & Compliance (GRC) 
+**Focus Areas:** Identity & Access Management (IAM) | Privileged Access Management (PAM) | Identity Governance & Administration (IGA) | Cloud Security | Governance, Risk, & Compliance (GRC) | Security Operations (SIEM)
 
 
 ---
