@@ -4,6 +4,20 @@
 
 Focus Areas: Identity & Access Management (IAM) | Privileged Access Management (PAM) | SOC | Cloud Security
 
+
+---
+## Privileged Access Management (PAM)
+
+### CyberArk Privileged Account Security Build and Implementation
+- [***PRIVATE REPO - CURRENTLY BUILDING*** Building and Implementing Privileged Account Security within CyberArk](https://github.com/terikaj/CyberArk-PAS)
+
+---
+
+## Identity Governance & Administration (IGA)
+
+### Layered Identity Governance & Directory Enforcement Architecture
+- [Layered Identity Governance & Directory Enforcement Diagram](https://github.com/terikaj/IGA-Architecture)
+
 ---
 
 ## Identity & Access Management (IAM)
@@ -24,13 +38,6 @@ Focus Areas: Identity & Access Management (IAM) | Privileged Access Management (
 
 ### What is a Government issued Clearance and what purpose does it serve in protecting Information, Identity, and Access?
 - [An Understanding of Government Clearances](https://github.com/terikaj/Clearance-IAM)
-
----
-
-## Privileged Access Management (PAM)
-
-### CyberArk Privileged Account Security Build and Implementation
-- [***PRIVATE REPO - CURRENTLY BUILDING*** Building and Implementing Privileged Account Security within CyberArk](https://github.com/terikaj/CyberArk-PAS)
 
 ---
 
