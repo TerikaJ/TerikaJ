@@ -43,7 +43,7 @@ I specialize in RBAC modeling, group-based authorization, delegated directory ad
 ## Security Operations & Detection
 
 - [Security Operations Center (SOC) + Honeynet from scratch using Azure](https://github.com/terikaj/SOC-Honeynet) *(Live Traffic)*
-- [Active Directory Attack & Detection Lab](https://github.com/terikaj/Splunk-Network-Security-Lab)
+- [Active Directory Attack & Detection Lab](https://github.com/terikaj/AD-Attack-Lab)
 - [Exploiting Windows 7 Accessibility Using Sticky Keys: Privilege Escalation for Password Reset](https://github.com/terikaj/Windows7-Exploit)
 - [Digital Data Guardian: Enhancing Electronic Health Record Security Through Encryption](https://github.com/terikaj/Medical-Encryption)
 
