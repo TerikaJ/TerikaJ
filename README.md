@@ -14,7 +14,7 @@ I specialize in RBAC modeling, group-based authorization, delegated directory ad
 ---
 ## Privileged Access Management (PAM)
 
-### CyberArk Project 
+### CyberArk Lab 
 - [***PRIVATE REPO - BUILDING*** Building and Implementing Privileged Account Security within CyberArk](https://github.com/terikaj/CyberArk-PAS)
 
 ---
@@ -26,11 +26,11 @@ I specialize in RBAC modeling, group-based authorization, delegated directory ad
 
 ## Identity & Access Management (IAM)
 
-### Okta Projects
+### Okta Labs
 - [***PRIVATE REPO - BUILDING*** Okta Identity & Access Sandbox Project](https://github.com/terikaj/Okta-IAM-Build)
 - [***PRIVATE REPO - PLANNED / SANDBOX*** Okta User Lifecyle Management](https://github.com/terikaj/Okta-User-Lifecycle)
 
-### Microsoft Entra ID (Azure AD) Projects
+### Microsoft Entra ID (Azure AD) Labs
 - [***PRIVATE REPO - BUILDING*** Setting up user roles, permissions, and SSO in Entra ID](https://github.com/terikaj/Entra-AD-IAM)
 - [***PRIVATE REPO - BUILDING*** Synchronizing on-premise Active Directory with Azure using Azure Entra Connect](https://github/com/terika/Entra-Connect-AD)
 
@@ -42,9 +42,8 @@ I specialize in RBAC modeling, group-based authorization, delegated directory ad
 
 ## Security Operations & Detection
 
-### Security Operations Center (SOC) + Honeynet from scratch using Microsoft Azure 
-- [LIVE SOC + Honeynet using Azure](https://github.com/terikaj/SOC-Honeynet) *(Live Traffic)*
-- [Deploying a virtualized network security environment using Oracle VM VirtalBox, Splunk, Sysmon, and Crowbar](https://github.com/terikaj/Splunk-Network-Security-Lab)
+- [Security Operations Center (SOC) + Honeynet from scratch using Azure](https://github.com/terikaj/SOC-Honeynet) *(Live Traffic)*
+- [Active Directory Attack & Detection Lab](https://github.com/terikaj/Splunk-Network-Security-Lab)
 - [Exploiting Windows 7 Accessibility Using Sticky Keys: Privilege Escalation for Password Reset](https://github.com/terikaj/Windows7-Exploit)
 - [Digital Data Guardian: Enhancing Electronic Health Record Security Through Encryption](https://github.com/terikaj/Medical-Encryption)
 
@@ -52,8 +51,8 @@ I specialize in RBAC modeling, group-based authorization, delegated directory ad
 
 ### Vulnerability Management
 
-- [***PRIVATE REPO - BUILDING*** OpenVAS Vulnerability Management Project](https://github.com/terikaj/Azure-OpenVAS)
-- [***PRIVATE REPO - BUILDING*** Tenable Vulnerability Management Project](https://github.com/terikaj/Tenable-Azure)
+- [***PRIVATE REPO - BUILDING*** OpenVAS Vulnerability Management Lab](https://github.com/terikaj/Azure-OpenVAS)
+- [***PRIVATE REPO - BUILDING*** Tenable Vulnerability Management Lab](https://github.com/terikaj/Tenable-Azure)
 
 ---
 
@@ -68,14 +67,14 @@ I specialize in RBAC modeling, group-based authorization, delegated directory ad
 
 ## Cloud & Infrastructure Fundamentals (Azure/Entra)
 
-### Getting started with Azure Projects (Lvl 1): Virtual Machine Build, Wireshark Inspection, and VPN deployment
+### Getting started with Azure Labs (Lvl 1): Virtual Machine Build, Wireshark Inspection, and VPN deployment
 - [Create Your Azure Account / Build an Azure Virtual Machine in Azure](https://github.com/terikaj/azure-begin)
 - [Wireshark Network Traffic Inspection and Configuring Network Security Groups in Azure](https://github.com/terikaj/azure-network-protocols)
 - [Deploying and Utilizing VPNs in an Azure VM](https://github.com/terikaj/VPN-Azure)
   
 ---
 
-### Azure Projects (Lvl 2): Active Directory, Windows Domain Controller, DNS Configuration, and File Permissions 
+### Azure Labs (Lvl 2): Active Directory, Windows Domain Controller, DNS Configuration, and File Permissions 
 - [Active Directory Integration inside of an Azure VM (On-Premise)](https://github.com/terikaj/configure-ad)
 - [Implementing and Managing DNS Services in an Azure VM](https://github.com/terikaj/DNS-Azure)
 - [Configuring and Managing File Permissions in an Azure VM](https://github.com/terikaj/FilePermissions-Azure)
