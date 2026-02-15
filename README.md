@@ -15,7 +15,7 @@ I specialize in RBAC modeling, group-based authorization, delegated directory ad
 ## Privileged Access Management (PAM)
 
 ### CyberArk Lab 
-- [***PRIVATE REPO - BUILDING*** Building and Implementing Privileged Account Security within CyberArk](https://github.com/terikaj/CyberArk-PAS)
+- [***PRIVATE REPO BUILD*** Building and Implementing Privileged Account Security within CyberArk](https://github.com/terikaj/CyberArk-PAS)
 
 ---
 
@@ -27,12 +27,12 @@ I specialize in RBAC modeling, group-based authorization, delegated directory ad
 ## Identity & Access Management (IAM)
 
 ### Okta Labs
-- [***PRIVATE REPO - BUILDING*** Okta Identity & Access Sandbox Project](https://github.com/terikaj/Okta-IAM-Build)
-- [***PRIVATE REPO - PLANNED / SANDBOX*** Okta User Lifecyle Management](https://github.com/terikaj/Okta-User-Lifecycle)
+- [***PRIVATE REPO BUILD*** Okta Identity & Access Sandbox Project](https://github.com/terikaj/Okta-IAM-Build)
+- [***PRIVATE REPO BUILD*** Okta User Lifecyle Management](https://github.com/terikaj/Okta-User-Lifecycle)
 
 ### Microsoft Entra ID (Azure AD) Labs
-- [***PRIVATE REPO - BUILDING*** Setting up user roles, permissions, and SSO in Entra ID](https://github.com/terikaj/Entra-AD-IAM)
-- [***PRIVATE REPO - BUILDING*** Synchronizing on-premise Active Directory with Azure using Azure Entra Connect](https://github/com/terika/Entra-Connect-AD)
+- [***PRIVATE REPO BUILD*** Setting up user roles, permissions, and SSO in Entra ID](https://github.com/terikaj/Entra-AD-IAM)
+- [***PRIVATE REPO BUILD*** Synchronizing on-premise Active Directory with Azure using Azure Entra Connect](https://github/com/terika/Entra-Connect-AD)
 
 
 ### Government Security Clearances: Protection of Information, Identity, and Access
@@ -83,7 +83,7 @@ I specialize in RBAC modeling, group-based authorization, delegated directory ad
 
 ## Software Engineer Projects
 
-- [***PRIVATE REPO - BUILDING*** Designing A Movie Finder Mobile App With Visual Studio Code](https://github.com/terikaj/Movie-Finder)
+- [***PRIVATE REPO BUILD*** Designing A Movie Finder Mobile App With Visual Studio Code](https://github.com/terikaj/Movie-Finder)
 
 
 <h2> 🤳 Connect with me! </h2>
