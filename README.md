@@ -1,13 +1,16 @@
-<h1>Hi, I'm Terika!🧑🏽‍💻 <br/><a href="https://www.linkedin.com/in/terikaj/"> Security Engineer </a> :cloud: :lock: :key: :shield:
 
-<h1>🧑🏽‍💻 🔐 🔑 Terika Jackson — Security Engineering Portfolio </h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=FFA500&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi!+👋;+I'm+Terika+!;" />
+</h1>
 
-As an IAM Engineer, I operate within and design multi-layer identity control planes that integrate authoritative identity sources, governed access workflows, directory-based enforcement, and endpoint policy management.
+<h1>🧑🏽‍💻 🔐 🔑 🛡️<br/><a href="https://www.linkedin.com/in/terikaj/"> Terika Jackson </a> — Security Engineer Portfolio </h1>
 
-I specialize in RBAC modeling, group-based authorization, delegated directory administration, and privileged access governance across Okta, CyberArk, Active Directory, and Entra ID-driven environments.
+As a *Security Engineer*, I operate within and design multi-layer identity control planes that integrate authoritative identity sources, governed access workflows, directory-based enforcement, and endpoint policy management.
+
+I specialize in RBAC modeling, group-based authorization, delegated directory administration, and privileged access governance across **Okta, CyberArk, Active Directory, and Entra ID** driven environments. My work aligns identity engineering with governance, compliance, and operational security objectives.
 
 
-Focus Areas: Identity & Access Management (IAM) | Privileged Access Management (PAM) | Identity Governance & Administration (IGA) | SOC | Cloud Security
+**Focus Areas:** Identity & Access Management (IAM) | Privileged Access Management (PAM) | Identity Governance & Administration (IGA) | SOC | Cloud Security | Governance, Risk, & Compliance (GRC) 
 
 
 ---
@@ -34,28 +37,29 @@ Focus Areas: Identity & Access Management (IAM) | Privileged Access Management (
 - [***PRIVATE REPO - BUILDING*** Synchronizing on-premise Active Directory with Azure using Azure Entra Connect](https://github/com/terika/Entra-Connect-AD)
 
 
-### Government issued Clearances and the protection of Information, Identity, and Access
+### Government Security Clearances: The protection of Information, Identity, and Access
 - [An Understanding of Government Clearances](https://github.com/terikaj/Clearance-IAM)
 
 ---
 
 ## Security Operations & Detection
 
-### Implementing a Security Operations Center (SOC) / Honeynet from scratch using Microsoft Azure 
-- [LIVE SOC / Honeynet using Azure](https://github.com/terikaj/SOC-Honeynet) *(Live Traffic)*
+### Security Operations Center (SOC) + Honeynet from scratch using Microsoft Azure 
+- [LIVE SOC + Honeynet using Azure](https://github.com/terikaj/SOC-Honeynet) *(Live Traffic)*
 - [Deploying a virtualized network security environment using Oracle VM VirtalBox, Splunk, Sysmon, and Crowbar](https://github.com/terikaj/Splunk-Network-Security-Lab)
 - [Exploiting Windows 7 Accessibility Using Sticky Keys: Privilege Escalation for Password Reset](https://github.com/terikaj/Windows7-Exploit)
 - [Digital Data Guardian: Enhancing Electronic Health Record Security Through Encryption](https://github.com/terikaj/Medical-Encryption)
+
 ---
 
-## Vulnerability Management
+### Vulnerability Management
 
 - [***PRIVATE REPO - BUILDING*** OpenVAS Vulnerability Management Project](https://github.com/terikaj/Azure-OpenVAS)
 - [***PRIVATE REPO - BUILDING*** Tenable Vulnerability Management Project](https://github.com/terikaj/Tenable-Azure)
 
 ---
 
-## IT Service Management & Enterprise Foundations
+## IT Ticketing System Build
 
 ### Implementing a full ticketing system from scratch within an Azure virtual machine 
 - [osTicket: Prerequisites and Installation](https://github.com/terikaj/osticket-prereqs)
@@ -64,23 +68,25 @@ Focus Areas: Identity & Access Management (IAM) | Privileged Access Management (
 
 ---
 
-## Cloud & Infrastructure Fundamentals (Azure)
+## Cloud & Infrastructure Fundamentals (Azure/Entra)
 
-### Getting started with Azure: Virtual Machine Build, Wireshark Network Traffic Inspection, and Deploying VPNs
+### Getting started with Azure Projects: Virtual Machine Build, Wireshark Inspection, and VPN deployment
 - [Create Your Azure Account / Build an Azure Virtual Machine in Azure](https://github.com/terikaj/azure-begin)
 - [Wireshark Network Traffic Inspection and Configuring Network Security Groups in Azure](https://github.com/terikaj/azure-network-protocols)
 - [Deploying and Utilizing VPNs in an Azure VM](https://github.com/terikaj/VPN-Azure)
+  
+---
 
-### Active Directory, Windows Server / Domain Controller, DNS Services Configuration, and Establishing File Permissions 
+### Azure Projects: Active Directory, Windows Server / Domain Controller, DNS Configuration, and File Permissions 
 - [Active Directory Integration inside of an Azure VM (On-Premise)](https://github.com/terikaj/configure-ad)
 - [Implementing and Managing DNS Services in an Azure VM](https://github.com/terikaj/DNS-Azure)
 - [Configuring and Managing File Permissions in an Azure VM](https://github.com/terikaj/FilePermissions-Azure)
 
 ---
 
-## Software Development Projects
+## Software Engineer Projects
 
-- [***PRIVATE REPO - CURRENTLY BUILDING*** Designing A Movie Finder Mobile App With Visual Studio Code](https://github.com/terikaj/Movie-Finder)
+- [***PRIVATE REPO - BUILDING*** Designing A Movie Finder Mobile App With Visual Studio Code](https://github.com/terikaj/Movie-Finder)
 
 
 <h2> 🤳 Connect with me! </h2>
