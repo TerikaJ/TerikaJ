@@ -70,14 +70,14 @@ I specialize in RBAC modeling, group-based authorization, delegated directory ad
 
 ## Cloud & Infrastructure Fundamentals (Azure/Entra)
 
-### Getting started with Azure Projects: Virtual Machine Build, Wireshark Inspection, and VPN deployment
+### Getting started with Azure Projects (Lvl 1): Virtual Machine Build, Wireshark Inspection, and VPN deployment
 - [Create Your Azure Account / Build an Azure Virtual Machine in Azure](https://github.com/terikaj/azure-begin)
 - [Wireshark Network Traffic Inspection and Configuring Network Security Groups in Azure](https://github.com/terikaj/azure-network-protocols)
 - [Deploying and Utilizing VPNs in an Azure VM](https://github.com/terikaj/VPN-Azure)
   
 ---
 
-### Azure Projects: Active Directory, Windows Server / Domain Controller, DNS Configuration, and File Permissions 
+### Azure Projects (Lvl 2): Active Directory, Windows Server / Domain Controller, DNS Configuration, and File Permissions 
 - [Active Directory Integration inside of an Azure VM (On-Premise)](https://github.com/terikaj/configure-ad)
 - [Implementing and Managing DNS Services in an Azure VM](https://github.com/terikaj/DNS-Azure)
 - [Configuring and Managing File Permissions in an Azure VM](https://github.com/terikaj/FilePermissions-Azure)
