@@ -77,7 +77,7 @@ I specialize in RBAC modeling, group-based authorization, delegated directory ad
   
 ---
 
-### Azure Projects (Lvl 2): Active Directory, Windows Server / Domain Controller, DNS Configuration, and File Permissions 
+### Azure Projects (Lvl 2): Active Directory, Windows Domain Controller, DNS Configuration, and File Permissions 
 - [Active Directory Integration inside of an Azure VM (On-Premise)](https://github.com/terikaj/configure-ad)
 - [Implementing and Managing DNS Services in an Azure VM](https://github.com/terikaj/DNS-Azure)
 - [Configuring and Managing File Permissions in an Azure VM](https://github.com/terikaj/FilePermissions-Azure)
