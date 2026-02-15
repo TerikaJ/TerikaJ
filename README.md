@@ -67,7 +67,7 @@ I specialize in RBAC modeling, group-based authorization, delegated directory ad
 
 ## Cloud & Infrastructure Fundamentals (Azure/Entra)
 
-### Getting started with Azure Labs (Lvl 1): Virtual Machine Build, Wireshark Inspection, and VPN deployment
+### Azure Labs (Lvl 1): Virtual Machine Build, Wireshark Inspection, and VPN deployment
 - [Create Your Azure Account / Build an Azure Virtual Machine in Azure](https://github.com/terikaj/azure-begin)
 - [Wireshark Network Traffic Inspection and Configuring Network Security Groups in Azure](https://github.com/terikaj/azure-network-protocols)
 - [Deploying and Utilizing VPNs in an Azure VM](https://github.com/terikaj/VPN-Azure)
