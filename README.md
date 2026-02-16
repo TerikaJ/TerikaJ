@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=FFA500&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi!+👋;+I'm+Terika+!;" />
 </h1>
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+![](https://komarev.com/ghpvc/?username=TerikaJ&color=green)
 
 <h1>🧑🏽‍💻 🔐 🔑 🛡️<br/><a href="https://www.linkedin.com/in/terikaj/"> Terika Jackson </a> — Security Engineer Portfolio </h1>
 
