@@ -3,9 +3,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=FFA500&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi!+👋;+I'm+Terika+!;" />
 </h1>
 
+![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+
 <h1>🧑🏽‍💻 🔐 🔑 🛡️<br/><a href="https://www.linkedin.com/in/terikaj/"> Terika Jackson </a> — Security Engineer Portfolio </h1>
 
-As a *Security Engineer*, I operate and design multi-layer identity controls that integrate identity sources, governed access workflows, directory-based enforcement, and endpoint policy management.
+As a *Security Engineer*, I operate and design layered identity controls that integrate identity sources, governed access workflows, and endpoint policy management.
 
 I specialize in RBAC modeling, group-based authorization, delegated directory administration, and privileged access governance across **Okta, CyberArk, Active Directory, and Entra ID** driven environments. My work aligns identity engineering with governance, compliance, and operational security objectives.
 
