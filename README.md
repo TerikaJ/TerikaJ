@@ -51,8 +51,8 @@ I specialize in RBAC modeling, group-based authorization, delegated directory ad
 
 ### Vulnerability Management
 
-- [***PRIVATE REPO - BUILDING*** OpenVAS Vulnerability Management Lab](https://github.com/terikaj/Azure-OpenVAS)
-- [***PRIVATE REPO - BUILDING*** Tenable Vulnerability Management Lab](https://github.com/terikaj/Tenable-Azure)
+- [***PRIVATE REPO BUILD*** OpenVAS Vulnerability Management Lab](https://github.com/terikaj/Azure-OpenVAS)
+- [***PRIVATE REPO BUILD*** Tenable Vulnerability Management Lab](https://github.com/terikaj/Tenable-Azure)
 
 ---
 
