@@ -14,9 +14,9 @@ I specialize in RBAC modeling, group-based authorization, delegated directory ad
 ---
 ## Privileged Access Management (PAM)
 
-### CyberArk Lab 
+### CyberArk Labs 
 - [***PRIVATE REPO BUILD*** Building and Implementing Privileged Account Security within CyberArk](https://github.com/terikaj/CyberArk-PAS)
-
+- [***PRIVATE REPO BUILD*** Privileged Account Lifecyle within CyberArk](https://github.com/terikaj/CyberArk-Credential-Lifecyle)
 ---
 
 ## Identity Governance & Administration (IGA)
